@@ -1,6 +1,2 @@
-Thanks for downloading this theme!
+i-Street導覽網頁，採用bootstrap技術、figma設計、formspreeAPI
 
-Theme Name: Rapid
-Theme URL: https://bootstrapmade.com/rapid-multipurpose-bootstrap-business-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
